@@ -79,6 +79,8 @@ plt.title('Sobel Edge Detection')
 plt.axis('off')
 <img width="897" height="629" alt="image" src="https://github.com/user-attachments/assets/d4888430-4a68-44b1-876c-03fe17158dcf" />
 ```
+<img width="896" height="620" alt="image" src="https://github.com/user-attachments/assets/5066bb06-a8cb-4c5b-a2dd-44444a023e04" />
+
 
 ###  Prewitt Edge Detector
 ```
